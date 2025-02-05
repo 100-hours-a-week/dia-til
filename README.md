@@ -2,7 +2,7 @@
 
 ## [2월] 1주차
 
-- [25.02.03 (월)](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_03.md)
+- [25.02.03 (월) : 시스템 아키텍처 설계](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_03.md)
 - [25.02.04 (화) : 프로세스와 쓰레드](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_04.md)
 - [25.02.05 (수) : 동기/비동기, 블로킹/논블로킹](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_05.md)
 - [25.02.06 (목)](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_06.md)
