@@ -17,4 +17,4 @@
 - [25.02.13 (목) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_13.md)
 - [25.02.14 (금) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_14.md)
 - [25.02.15 (토) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_15.md)
-- [25.02.16 (일) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_15.md)
+- [25.02.16 (일) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_16.md)
