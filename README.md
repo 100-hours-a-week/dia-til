@@ -11,7 +11,7 @@
 - [25.02.09 (일): 1주차 과제 보완, 비동기 프로그램 기회](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_09.md)
 
 ## [2월] 2주차
-- [25.02.10 (월) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_10.md)
+- [25.02.10 (월) : 공유자원, 임계영역, 동기화, Lock](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_10.md)
 - [25.02.11 (화) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_11.md)
 - [25.02.12 (수) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_12.md)
 - [25.02.13 (목) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_13.md)
