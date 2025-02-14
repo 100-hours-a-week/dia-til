@@ -13,8 +13,8 @@
 ## [2월] 2주차
 - [25.02.10 (월) : 공유자원, 임계영역, 동기화, Lock](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_10.md)
 - [25.02.11 (화) : 공유자원, 임계영역, 동기화, Lock](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_11.md)
-- [25.02.12 (수) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_12.md)
-- [25.02.13 (목) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_13.md)
-- [25.02.14 (금) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_14.md)
+- [25.02.12 (수) : 웹의 구조 및 이해](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_12.md)
+- [25.02.13 (목) : HTTP 자격 증명 헤더, JWT, OAuth](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_13.md)
+- [25.02.14 (금) : 딥다이브](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_14.md)
 - [25.02.15 (토) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_15.md)
 - [25.02.16 (일) : ](https://github.com/100-hours-a-week/dia-til/blob/main/02-Feb/25_02_16.md)
